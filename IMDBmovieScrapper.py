@@ -32,6 +32,12 @@ class MovieScrapper:
         
         return top_250_movies
 
+    def findMovie(self):
+        pass
+
+
+
+
 
 
 
